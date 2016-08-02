@@ -28,8 +28,6 @@ tile.techreborn.magicenergyabsorber.name=魔法能源吸收器
 tile.techreborn.semifluidgenerator.name=半流质发电机
 tile.techreborn.alloyfurnace.name=铁制合金冶炼炉
 tile.techreborn.chemicalreactor.name=化学反应器
-tile.techreborn.lathe.name=电动车床
-tile.techreborn.platecuttingmachine.name=板材切割机
 tile.techreborn.dragoneggsiphoner.name=龙蛋能源吸取器
 tile.techreborn.idsu.name=IDSU
 tile.techreborn.aesu.name=AESU
@@ -668,7 +666,7 @@ fluid.fluidwolframium=钨
 #Items
 item.techreborn.uuMatter.name=UU-物质
 item.techreborn.manual.name=科技手册
-item.techreborn.debug.name=Debug Tool
+item.techreborn.debug.name=Debug工具
 #Configs
 config.techreborn.allow.galenaOre=Allow Galena Ore
 config.techreborn.allow.galenaOre.tooltip=Decide whether Galena Ore spawns or not
@@ -906,18 +904,18 @@ config.techreborn.allowExpensiveWindmill=Allow Expensive Windmill
 
 
 #ConfigGui
-config.techreborn.category.general=General Configs
-config.techreborn.category.world=World Configs
-config.techreborn.category.power=Power Configs
-config.techreborn.category.crafting=Crafting Configs
-config.techreborn.category.uu=UU Configs
-config.techreborn.category.emc=EMC Configs
+config.techreborn.category.general=全局设置
+config.techreborn.category.world=世界设置
+config.techreborn.category.power=能源设置
+config.techreborn.category.crafting=合成设置
+config.techreborn.category.uu=UU设置
+config.techreborn.category.emc=EMC设置
 config.techreborn.category.integration=Integration
 
-tr.configgui.category.trGeneral.tooltip=General
-tr.configgui.category.trWorld.tooltip=World
-tr.configgui.category.trPower.tooltip=Power
-tr.configgui.category.trCrafting.tooltip=Crafting
+tr.configgui.category.trGeneral.tooltip=全局
+tr.configgui.category.trWorld.tooltip=世界
+tr.configgui.category.trPower.tooltip=能源
+tr.configgui.category.trCrafting.tooltip=合成
 tr.configgui.category.truu.tooltip=UU
 tr.configgui.category.tremc.tooltip=EMC
 tr.configgui.category.treinter.tooltip=Mod Integration
@@ -992,8 +990,8 @@ keys.techreborn.config=Config
 
 achievement.TechReborn:ore_PickUp=新矿石!
 achievement.TechReborn:ore_PickUp.desc=挖到一个TechReborn的矿石
-achievement.TechReborn:centrifuge_Craft=Time to Spin
-achievement.TechReborn:thermalgen_Craft=Time to Heat
+achievement.TechReborn:centrifuge_Craft=是时候转起来了
+achievement.TechReborn:thermalgen_Craft=是时候热起来了
 
 # JEI Integration
 techreborn.jei.recipe.start.cost=Start: %sEU
@@ -1014,6 +1012,6 @@ death.attack.shock=%s 被处以电刑
 #Entitys
 entity.techreborn.nuke.name=核弹
 
-tooltip.wip=WIP Coming Soon
-tooltip.upBroken=Upgrades DO NOT function!
-tooltip.ingredient=Currently only a crafting ingredient
+tooltip.wip=未完品，即将到来
+tooltip.upBroken=升级插件还没做完!
+tooltip.ingredient=目前只完成了一部分
