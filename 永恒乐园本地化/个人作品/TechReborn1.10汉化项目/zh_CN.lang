@@ -10,13 +10,13 @@ tile.techreborn.thermalGenerator.name=热敏发电机
 tile.techreborn.quantumTank.name=量子槽
 tile.techreborn.quantumChest.name=量子箱
 tile.techreborn.digitalChest.name=数码箱
-tile.techreborn.centrifuge.name=离心机
-tile.techreborn.rollingmachine.name=卷板机
+tile.techreborn.centrifuge.name=工业离心机
+tile.techreborn.rollingmachine.name=辊压机
 tile.techreborn.machineCasing.standard.name=标准机械外壳
 tile.techreborn.machineCasing.reinforced.name=强化机械外壳
 tile.techreborn.machineCasing.advanced.name=高级机械外壳
 tile.techreborn.blastfurnace.name=工业高炉
-tile.techreborn.alloysmelter.name=电动合金冶炼炉
+tile.techreborn.alloysmelter.name=电力合金冶炼炉
 tile.techreborn.matterfabricator.name=物质机
 tile.techreborn.implosioncompressor.name=聚爆压缩机
 tile.techreborn.industrialgrinder.name=工业磨粉机
@@ -53,8 +53,8 @@ tile.techreborn.machineFrame.steel.name=钢机壳
 tile.techreborn.machineFrame.titanium.name=钛机壳
 tile.techreborn.industrialsawmill.name=工业锯木机
 tile.techreborn.chargebench.name=充电台
-tile.techreborn.playerDetector.all.name=玩家检测器 (所有人)
-tile.techreborn.playerDetector.others.name=玩家检测器 (其他人)
+tile.techreborn.playerDetector.all.name=玩家检测器 (所有玩家)
+tile.techreborn.playerDetector.others.name=玩家检测器 (其他玩家)
 tile.techreborn.playerDetector.you.name=玩家检测器 (你自己)
 tile.techreborn.generator.name=火力发电机
 tile.techreborn.extractor.name=提取机
@@ -62,11 +62,11 @@ tile.techreborn.grinder.name=磨粉机
 tile.techreborn.compressor.name=压缩机
 tile.techreborn.electricfurnace.name=电炉
 tile.techreborn.machineFrame.highlyAdvancedMachine.name=高度先进机械方块
-tile.techreborn.machineFrame.advancedMachine.name=高级机械方块
-tile.techreborn.machineFrame.machine.name=机械方块
+tile.techreborn.machineFrame.advancedMachine.name=高级机器外壳
+tile.techreborn.machineFrame.machine.name=基础机器外壳
 tile.techreborn.ore2.copper.name=铜矿石
 tile.techreborn.ore2.tin.name=锡矿石
-tile.techreborn.solarpanel.name=太阳能发电机
+tile.techreborn.solarpanel.name=太阳能板
 tile.techreborn.watermill.name=水力发电机
 tile.techreborn.windmill.name=风力发电机
 tile.techreborn.ironfurnace.name=铁炉
@@ -164,7 +164,7 @@ tile.techreborn.sodium.name=液态钠
 tile.techreborn.sodiumpersulfate.name=过硫酸钠
 tile.techreborn.tritium.name=氚
 tile.techreborn.wolframium.name=液态钨
-tile.techreborn.supercondensator.name=Supercondensator
+tile.techreborn.supercondensator.name=超级电容
 fluid.fluid.fluidberylium=铍
 fluid.fluid.fluidcalcium=钙
 fluid.fluid.fluidcalciumcarbonate=碳酸钙
@@ -190,7 +190,7 @@ fluid.fluid.fluidtritium=氚
 fluid.fluid.fluidwolframium=钨
 fluid.tile.techreborn.glyceryl=硝化甘油
 fluid.tile.techreborn.berylium=铍
-fluid.tile.techreborn.chlorite=亚氯酸盐
+fluid.tile.techreborn.chlorite=绿泥石
 fluid.tile.techreborn.helium3=氦-3
 fluid.tile.techreborn.deuterium=氘
 fluid.tile.techreborn.helium=氦
@@ -264,12 +264,12 @@ item.techreborn.dust.silicon.name=硅粉
 item.techreborn.dust.silver.name=银粉
 item.techreborn.dust.sodalite.name=方钠石粉
 item.techreborn.dust.spessartine.name=锰铝榴石粉
-item.techreborn.dust.sphalerite.name=闪锌粉
+item.techreborn.dust.sphalerite.name=闪锌矿粉
 item.techreborn.dust.steel.name=钢粉
 item.techreborn.dust.sulfur.name=硫粉
 item.techreborn.dust.tellurium.name=碲粉
 item.techreborn.dust.teslatite.name=蓝石粉
-item.techreborn.dust.tetrahedrite.name=黝铜粉
+item.techreborn.dust.tetrahedrite.name=黝铜矿粉
 item.techreborn.dust.tin.name=锡粉
 item.techreborn.dust.titanium.name=钛粉
 item.techreborn.dust.tungsten.name=钨粉
@@ -281,7 +281,7 @@ item.techreborn.dust.zinc.name=锌粉
 item.techreborn.dust.galena.name=方铅矿粉
 item.techreborn.dust.sawDust.name=锯末
 item.techreborn.dust.olivine.name=橄榄石粉
-item.techreborn.dust.andesite.name=安山石粉
+item.techreborn.dust.andesite.name=安山岩粉
 item.techreborn.dust.diorite.name=闪长岩粉
 item.techreborn.dust.granite.name=花岗岩粉
 
@@ -351,7 +351,7 @@ item.techreborn.dustsmall.sawDust.name=小堆锯末
 item.techreborn.dustsmall.silver.name=小堆银粉
 item.techreborn.dustsmall.sodalite.name=小堆方钠石粉
 item.techreborn.dustsmall.spessartine.name=小堆锰铝榴石粉
-item.techreborn.dustsmall.sphalerite.name=小堆闪锌粉
+item.techreborn.dustsmall.sphalerite.name=小堆闪锌矿粉
 item.techreborn.dustsmall.steel.name=小堆钢粉
 item.techreborn.dustsmall.sulfur.name=小堆硫粉
 item.techreborn.dustsmall.tin.name=小堆锡粉
@@ -360,11 +360,11 @@ item.techreborn.dustsmall.tungsten.name=小堆钨粉
 item.techreborn.dustsmall.uvarovite.name=小堆钙铬榴石粉
 item.techreborn.dustsmall.voidstone.name=小堆虚空石粉
 item.techreborn.dustsmall.yellowGarnet.name=小堆黄色石榴石粉
-item.techreborn.dustsmall.zinc.name=小撮锌粉
-item.techreborn.dustsmall.olivine.name=小撮橄榄石粉
-item.techreborn.dustsmall.andesite.name=小撮安山石粉
-item.techreborn.dustsmall.diorite.name=小撮闪长岩粉
-item.techreborn.dustsmall.granite.name=小撮花岗岩粉
+item.techreborn.dustsmall.zinc.name=小堆锌粉
+item.techreborn.dustsmall.olivine.name=小堆橄榄石粉
+item.techreborn.dustsmall.andesite.name=小堆安山岩粉
+item.techreborn.dustsmall.diorite.name=小堆闪长岩粉
+item.techreborn.dustsmall.granite.name=小堆花岗岩粉
 
 item.techreborn.cell.name=空单元
 item.techreborn.rebattery.name=充电电池
@@ -374,13 +374,13 @@ item.techreborn.lapotronCrystal.name=兰波顿水晶
 item.techreborn.treetap.name=木龙头
 item.techreborn.nanosaber.name=纳米剑
 item.techreborn.upgrade.Overclock.name=超频升级
-item.techreborn.upgrade.Transformer.name=高压升级
+item.techreborn.upgrade.Transformer.name=变压器升级
 item.techreborn.upgrade.EnergyStorage.name=储能升级
 
 #Gems
 item.techreborn.gem.ruby.name=红宝石
 item.techreborn.gem.sapphire.name=蓝宝石
-item.techreborn.gem.peridot.name=绿色蓝宝石
+item.techreborn.gem.peridot.name=橄榄石
 item.techreborn.gem.redGarnet.name=红色石榴石
 item.techreborn.gem.yellowGarnet.name=黄色石榴石
 
@@ -419,7 +419,7 @@ item.techreborn.ingot.tungstensteel.name=钨钢锭
 item.techreborn.ingot.zinc.name=锌锭
 item.techreborn.ingot.advancedAlloy.name=高级合金锭
 item.techreborn.ingot.mixedMetal.name=合金锭
-item.techreborn.ingot.iridiumAlloy.name=铱合金板
+item.techreborn.ingot.iridiumAlloy.name=铱合金锭
 
 #Nuggets
 item.techreborn.nuggets.aluminum.name=铝粒
@@ -490,7 +490,7 @@ item.techreborn.plate.aluminum.name=铝板
 item.techreborn.plate.brass.name=黄铜板
 item.techreborn.plate.bronze.name=青铜板
 item.techreborn.plate.carbon.name=碳板
-item.techreborn.plate.coal.name=Coal Plate
+item.techreborn.plate.coal.name=煤板
 item.techreborn.plate.chrome.name=铬板
 item.techreborn.plate.copper.name=铜板
 item.techreborn.plate.diamond.name=钻石板
@@ -569,19 +569,19 @@ item.techreborn.part.computerMonitor.name=电脑显示器
 item.techreborn.part.machineParts.name=机械零件
 item.techreborn.part.neutronReflector.name=中子反射板
 item.techreborn.part.thickNeutronReflector.name=加厚中子反射板
-item.techreborn.part.rubberSap.name=Sap
+item.techreborn.part.rubberSap.name=粘性树脂
 item.techreborn.part.rubber.name=橡胶
 item.techreborn.part.scrap.name=废料
 item.techreborn.part.electronicCircuit.name=电路板
 item.techreborn.part.advancedCircuit.name=高级电路板
-item.techreborn.part.frequencyTransmitter.name=Frequency Transmitter
+item.techreborn.part.frequencyTransmitter.name=频率转换器
 item.techreborn.part.wolframiumGrindingHead.name=钨研磨头
 item.techreborn.part.dogecoin.name=Doge币
 item.techreborn.part.coolantSimple.name=10k冷却单元
 item.techreborn.part.coolantTriple.name=30k冷却单元
 item.techreborn.part.coolantSix.name=60k冷却单元
 
-item.techreborn.frequencyTransmitter.name=Frequency Transmitter
+item.techreborn.frequencyTransmitter.name=频率转换器
 
 #Tools
 item.techreborn.rockcutter.name=岩石切割机
@@ -643,8 +643,8 @@ item.peridotBoots.name=橄榄石靴子
 #Fluid
 fluid.fluidberylium=铍
 fluid.fluidcalcium=钙
-fluid.fluidcalciumcarbonate=熔融碳酸钙
-fluid.fluidchlorite=亚氯酸盐
+fluid.fluidcalciumcarbonate=碳酸钙
+fluid.fluidchlorite=绿泥石
 fluid.fluiddeuterium=氘
 fluid.fluidglyceryl=硝化甘油
 fluid.fluidhelium=氦
@@ -933,22 +933,22 @@ techreborn.recipe.industrialelectrolyzer=工业电解器
 techreborn.recipe.industrialsawmill=工业锯木机
 techreborn.recipe.lathe=车床
 techreborn.recipe.platecuttingmachine=板材切割机
-techreborn.recipe.chemicalReactor=Chemical Reactor Recipe
-techreborn.recipe.implosioncompressor=Implosion Compressor
+techreborn.recipe.chemicalReactor=化学反应器
+techreborn.recipe.implosioncompressor=聚爆压缩机
 
 #Message
 techreborn.message.missingmultiblock=多方块结构缺失
-techreborn.message.setTo=Set to
-techreborn.message.in=in
-techreborn.message.noCoordsSet=No Coordinates Set
-techreborn.message.coordsHaveBeen=Coordinates have been
-techreborn.message.cleared=Cleared
-techreborn.message.detects=Detects
-techreborn.message.allPlayers=All Players
-techreborn.message.onlyOtherPlayers=Only Other Players
-techreborn.message.onlyYou=Only You
-techreborn.message.nanosaberActive=Active
-techreborn.message.nanosaberInactive=Inactive
+techreborn.message.setTo=设置为
+techreborn.message.in=在
+techreborn.message.noCoordsSet=没有设置坐标
+techreborn.message.coordsHaveBeen=坐标已设置为
+techreborn.message.cleared=清楚
+techreborn.message.detects=检测
+techreborn.message.allPlayers=所有玩家
+techreborn.message.onlyOtherPlayers=仅其他玩家
+techreborn.message.onlyYou=仅你自己
+techreborn.message.nanosaberActive=激活
+techreborn.message.nanosaberInactive=未激活
 
 #Cables
 Cable.copperCable.name=铜质导线
@@ -970,28 +970,28 @@ desc.tier=Tier:
 
 
 #Manual
-techreborn.manual.contents=Contents Page
-techreborn.manual.gettingstarted=Getting Started
-techreborn.manual.generatingpower=Generating Power
-techreborn.manual.basicmachines=Basic Machines
-techreborn.manual.advancedmachines=Advanced Machines
-techreborn.manual.tools=Tools
+techreborn.manual.contents=目录
+techreborn.manual.gettingstarted=新手入门
+techreborn.manual.generatingpower=产生能源
+techreborn.manual.basicmachines=基础机器
+techreborn.manual.advancedmachines=高级机器
+techreborn.manual.tools=工具
 
-techreborn.manual.gettingrubber=Collecting Rubber
-techreborn.manual.backbutton=Back
-techreborn.manual.gettingplates=Crafting Plates
+techreborn.manual.gettingrubber=采集橡胶
+techreborn.manual.backbutton=返回
+techreborn.manual.gettingplates=制作出板
 
-item.techreborn.advancedDrill.description=This Tool is a advanced version of the mining drill, when this item is activated it will dig out a 3x3.
-tile.techreborn.alloyfurnace.description=This Machine is your first step into TechReborn with this you can fuse metals into other metals. These other metals can be used to craft the higher tier machines.
-tile.techreborn.alloysmelter.description=This machine is a upgraded version of the Alloy Furnace, This block requires EU or RF.
-tile.techreborn.assemblingmachine.description=This block is used to craft some of the more complex machines that can't be crafted in a normal crafting table.
-tile.techreborn.blastfurnace.description=This Machine needs a 3x4x3 of machine casings behind it to increase its internal heat, The hotter the machine is the more recipes will open up to you. This machine also needs EU/RF.
+item.techreborn.advancedDrill.description=这个工具是一个高级版本的采矿钻头,当它被激活时将以3x3的范围挖掘。
+tile.techreborn.alloyfurnace.description=这是你初次步入TechReborn时第一次能融合金属们变成另外一种金属的机器。这样加工出来的金属可以用来加工更高级别的机器。
+tile.techreborn.alloysmelter.description=这台机器是一个升级版本的合金炉,它需要使用EU或RF。
+tile.techreborn.assemblingmachine.description=这台机器用于加工许多不能用普通工作台加工的复杂设备。
+tile.techreborn.blastfurnace.description=这台机器需要在后面放置一个3x4x3的机器外壳来增加其内部热量，更高热量的高炉可以给你带来更多配方。这台机器也需要使用EU或RF。
 
 keys.techreborn.category=TechReborn Category
 keys.techreborn.config=Config
 
-achievement.TechReborn:ore_PickUp=New Ore!
-achievement.TechReborn:ore_PickUp.desc=Mine a TechReborn ore
+achievement.TechReborn:ore_PickUp=新矿石!
+achievement.TechReborn:ore_PickUp.desc=挖到一个TechReborn的矿石
 achievement.TechReborn:centrifuge_Craft=Time to Spin
 achievement.TechReborn:thermalgen_Craft=Time to Heat
 
@@ -1001,18 +1001,18 @@ techreborn.jei.recipe.running.cost=EU/t: %s
 techreborn.jei.recipe.processing.time.1=Time: %s ticks
 techreborn.jei.recipe.processing.time.2=(%s seconds)
 jei.techreborn.scrapbox.name=开启废料盒
-techreborn.desc.rubberSap=In order to get sap, you need to find a rubber tree or obtain a rubber tree sapling and proceed to grow it. Once you have obtained a rubber tree, search around for little yellowish spots on the tree. If you don't see any, just wait a bit and eventually these yellow "sap" spots. To harvest the sap, use a treetap and use it on the log.
-techreborn.desc.scrapBox=Scrapboxes can be opened by either a simple use in hand, or by dispensers. That's right, just throw your scrapboxes into dispensers and give them a redstone signal, and boom! Random item!
-techreborn.desc.scrapBoxNoDispenser=Scrapboxes can be opened by a simple use in hand!
+techreborn.desc.rubberSap=为了获得粘性树脂,你需要找一颗橡胶树或者找到1棵橡胶树苗并且进行种植。当你找到了一个橡胶树后,看看树干有没有黄点.如果没有,过一会就会出现了. 为了收获粘性树脂,你需要用一个木龙头对着黄点右击.
+techreborn.desc.scrapBox=废料盒可以简单的用手打开，也可以用开箱器打开。这是很直接的, 只要把你的废料盒扔进开箱器并且提供一个红石信号, 然后boom的一声，随机的物品就出现了!
+techreborn.desc.scrapBoxNoDispenser=废料盒可以很简单的用手打开。
 
-techreborn.jei.category.alloy.furnace=Alloy Furnace
+techreborn.jei.category.alloy.furnace=合金炉
 
 #Death Messages
-death.attack.shock=%s was electrocuted
+death.attack.shock=%s 被处以电刑
 
 
 #Entitys
-entity.techreborn.nuke.name=Nuke
+entity.techreborn.nuke.name=核弹
 
 tooltip.wip=WIP Coming Soon
 tooltip.upBroken=Upgrades DO NOT function!
