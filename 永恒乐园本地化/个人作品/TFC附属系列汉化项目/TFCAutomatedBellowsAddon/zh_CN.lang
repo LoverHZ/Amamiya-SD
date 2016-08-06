@@ -1,0 +1,11 @@
+tile.BellowsDriver.name=风箱传动器
+tile.SteamBoiler.name=蒸汽锅炉
+tile.PotteryKiln.name=陶窑（锅炉）
+tile.PotteryKilnChamber.name=陶窑（膛）
+tile.WaterFilter.name=水过滤器
+
+item.BellowsDriver.name=风箱传动器
+item.SteamBoiler.name=蒸汽锅炉
+
+container.PotteryKiln.name=陶窑（锅炉）
+container.PotteryKilnChamber.name=陶窑（膛）

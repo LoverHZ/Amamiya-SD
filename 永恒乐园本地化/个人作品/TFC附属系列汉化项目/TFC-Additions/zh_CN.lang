@@ -1,0 +1,178 @@
+﻿#zh_CN
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the § symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+itemGroup.TFCAdditions=TFC Additions
+
+key.PrevChiselMode=旧凿子模式
+
+tile.MMRockDent.Gneiss.name=片麻岩（大边框）
+tile.MMRockDent.Marble.name=大理石（大边框）
+tile.MMRockDent.Phyllite.name=千枚岩（大边框）
+tile.MMRockDent.Quartzite.name=硅岩（大边框）
+tile.MMRockDent.Schist.name=片岩（大边框）
+tile.MMRockDent.Slate.name=板岩（大边框）
+
+tile.MMRockDentSmall.Gneiss.name=片麻岩（小边框）
+tile.MMRockDentSmall.Marble.name=大理石（小边框）
+tile.MMRockDentSmall.Phyllite.name=千枚岩（小边框）
+tile.MMRockDentSmall.Quartzite.name=硅岩（小边框）
+tile.MMRockDentSmall.Schist.name=片岩（小边框）
+tile.MMRockDentSmall.Slate.name=板岩（小边框）
+
+tile.IgExRockDent.Andesite.name=安山岩（大边框）
+tile.IgExRockDent.Basalt.name=玄武岩（大边框）
+tile.IgExRockDent.Dacite.name=英安岩（大边框）
+tile.IgExRockDent.Rhyolite.name=流纹岩（大边框）
+
+tile.IgExRockDentSmall.Andesite.name=安山岩（小边框）
+tile.IgExRockDentSmall.Basalt.name=玄武岩（小边框）
+tile.IgExRockDentSmall.Dacite.name=英安岩（小边框）
+tile.IgExRockDentSmall.Rhyolite.name=流纹岩（小边框）
+
+tile.IgInRockDent.Diorite.name=闪长岩（大边框）
+tile.IgInRockDent.Gabbro.name=辉长岩（大边框）
+tile.IgInRockDent.Granite.name=花岗岩（大边框）
+
+tile.IgInRockDentSmall.Diorite.name=闪长岩（小边框）
+tile.IgInRockDentSmall.Gabbro.name=辉长岩（小边框）
+tile.IgInRockDentSmall.Granite.name=花岗岩（小边框）
+
+tile.SedRockDent.Chalk.name=白垩岩（大边框）
+tile.SedRockDent.Chert.name=角岩（大边框）
+tile.SedRockDent.Claystone.name=粘土岩（大边框）
+tile.SedRockDent.Conglomerate.name=砾岩（大边框）
+tile.SedRockDent.Dolomite.name=白云岩（大边框）
+tile.SedRockDent.Limestone.name=石灰岩（大边框）
+tile.SedRockDent.Rock Salt.name=盐岩（大边框）
+tile.SedRockDent.Shale.name=页岩（大边框）
+
+tile.SedRockDentSmall.Chalk.name=白垩岩（小边框）
+tile.SedRockDentSmall.Chert.name=角岩（小边框）
+tile.SedRockDentSmall.Claystone.name=粘土岩（小边框）
+tile.SedRockDentSmall.Conglomerate.name=砾岩（小边框）
+tile.SedRockDentSmall.Dolomite.name=白云岩（小边框）
+tile.SedRockDentSmall.Limestone.name=石灰岩（小边框）
+tile.SedRockDentSmall.Rock Salt.name=盐岩（小边框）
+tile.SedRockDentSmall.Shale.name=页岩（小边框）
+
+tile.PlanksOutline.Oak.name=橡木木板（大边框）
+tile.PlanksOutline.Aspen.name=白杨木板（大边框）
+tile.PlanksOutline.Birch.name=白桦木板（大边框）
+tile.PlanksOutline.Chestnut.name=栗木板（大边框）
+tile.PlanksOutline.Douglas Fir.name=花旗木板（大边框）
+tile.PlanksOutline.Hickory.name=山核桃木板（大边框）
+tile.PlanksOutline.Maple.name=枫木板（大边框）
+tile.PlanksOutline.Ash.name=白蜡木板（大边框）
+tile.PlanksOutline.Pine.name=松木板（大边框）
+tile.PlanksOutline.Sequoia.name=红杉木板（大边框）
+tile.PlanksOutline.Spruce.name=云杉木板（大边框）
+tile.PlanksOutline.Sycamore.name=悬铃木板（大边框）
+tile.PlanksOutline.White Cedar.name=北美香柏木板（大边框）
+tile.PlanksOutline.White Elm.name=榆树木板（大边框）
+tile.PlanksOutline.Willow.name=杨柳木板（大边框）
+tile.PlanksOutline.Kapok.name=木棉木板（大边框）
+tile.PlanksOutline2.Acacia.name=金合欢木板（大边框）
+
+tile.PlanksParquet.Oak.name=橡木镶木地板
+tile.PlanksParquet.Aspen.name=白杨镶木地板
+tile.PlanksParquet.Birch.name=白桦镶木地板
+tile.PlanksParquet.Chestnut.name=栗树镶木地板
+tile.PlanksParquet.Douglas Fir.name=花旗镶木地板
+tile.PlanksParquet.Hickory.name=山核桃镶木地板
+tile.PlanksParquet.Maple.name=枫树镶木地板
+tile.PlanksParquet.Ash.name=白蜡镶木地板
+tile.PlanksParquet.Pine.name=松树镶木地板
+tile.PlanksParquet.Sequoia.name=红杉镶木地板
+tile.PlanksParquet.Spruce.name=云杉镶木地板
+tile.PlanksParquet.Sycamore.name=悬铃镶木地板
+tile.PlanksParquet.White Cedar.name=北美香柏镶木地板
+tile.PlanksParquet.White Elm.name=榆树镶木地板
+tile.PlanksParquet.Willow.name=杨柳镶木地板
+tile.PlanksParquet.Kapok.name=木棉镶木地板
+tile.PlanksParquet2.Acacia.name=金合欢镶木地板
+
+tile.PlanksNorm.Oak.name=橡木木板
+tile.PlanksNorm.Aspen.name=白杨木板
+tile.PlanksNorm.Birch.name=白桦木板
+tile.PlanksNorm.Chestnut.name=栗木板
+tile.PlanksNorm.Douglas Fir.name=花旗木板
+tile.PlanksNorm.Hickory.name=山核桃木板
+tile.PlanksNorm.Maple.name=枫木板
+tile.PlanksNorm.Ash.name=白蜡木版
+tile.PlanksNorm.Pine.name=松木板
+tile.PlanksNorm.Sequoia.name=红杉木板
+tile.PlanksNorm.Spruce.name=云杉木板
+tile.PlanksNorm.Sycamore.name=悬铃木板
+tile.PlanksNorm.White Cedar.name=北美香柏木板
+tile.PlanksNorm.White Elm.name=榆树木板
+tile.PlanksNorm.Willow.name=杨柳木板
+tile.PlanksNorm.Kapok.name=木棉木板
+tile.PlanksNorm2.Acacia.name=金合欢木板
+
+tile.PlanksVert.Oak.name=橡木木板
+tile.PlanksVert.Aspen.name=白杨木板
+tile.PlanksVert.Birch.name=白桦木板
+tile.PlanksVert.Chestnut.name=栗木板
+tile.PlanksVert.Douglas Fir.name=花旗木板
+tile.PlanksVert.Hickory.name=山核桃木板
+tile.PlanksVert.Maple.name=枫木板
+tile.PlanksVert.Ash.name=白蜡木板
+tile.PlanksVert.Pine.name=松木板
+tile.PlanksVert.Sequoia.name=红杉木板
+tile.PlanksVert.Spruce.name=云杉木板
+tile.PlanksVert.Sycamore.name=悬铃木板
+tile.PlanksVert.White Cedar.name=北美香柏木板
+tile.PlanksVert.White Elm.name=榆树木板
+tile.PlanksVert.Willow.name=杨柳木板
+tile.PlanksVert.Kapok.name=木棉木板
+tile.PlanksVert2.Acacia.name=金合欢木板
+
+tile.PlanksLarge.Oak.name=橡木木板
+tile.PlanksLarge.Aspen.name=白杨木板
+tile.PlanksLarge.Birch.name=白桦木板
+tile.PlanksLarge.Chestnut.name=栗树木板
+tile.PlanksLarge.Douglas Fir.name=花旗木板
+tile.PlanksLarge.Hickory.name=山核桃木板
+tile.PlanksLarge.Maple.name=枫木木板
+tile.PlanksLarge.Ash.name=白蜡木板
+tile.PlanksLarge.Pine.name=松树木板
+tile.PlanksLarge.Sequoia.name=红杉木板
+tile.PlanksLarge.Spruce.name=云杉木板
+tile.PlanksLarge.Sycamore.name=悬铃木板
+tile.PlanksLarge.White Cedar.name=北美香柏木木板
+tile.PlanksLarge.White Elm.name=榆木木板
+tile.PlanksLarge.Willow.name=杨柳木板
+tile.PlanksLarge.Kapok.name=木棉木板
+tile.PlanksLarge2.Acacia.name=金合欢木板
+
+item.Plank Planed.Oak.name=刨过的橡木木板
+item.Plank Planed.Aspen.name=刨过的白杨木板
+item.Plank Planed.Birch.name=刨过的白桦木板
+item.Plank Planed.Chestnut.name=刨过的栗木板
+item.Plank Planed.Douglas Fir.name=刨过的花旗木板
+item.Plank Planed.Hickory.name=刨过的山核桃木板
+item.Plank Planed.Maple.name=刨过的枫木板
+item.Plank Planed.Ash.name=刨过的白蜡木版
+item.Plank Planed.Pine.name=刨过的松木板
+item.Plank Planed.Sequoia.name=刨过的红杉木板
+item.Plank Planed.Spruce.name=刨过的云杉木板
+item.Plank Planed.Sycamore.name=刨过的悬铃木板
+item.Plank Planed.White Cedar.name=刨过的北美香柏木板
+item.Plank Planed.White Elm.name=刨过的榆树木板
+item.Plank Planed.Willow.name=刨过的杨柳木板
+item.Plank Planed.Kapok.name=刨过的木棉木板
+item.Plank Planed.Acacia.name=刨过的金合欢木板
+
+item.Bismuth Bronze Planer.name=铋青铜刨子
+item.Black Bronze Planer.name=黑青铜刨子
+item.Black Steel Planer.name=黑钢刨子
+item.Blue Steel Planer.name=蓝钢刨子
+item.Bronze Planer.name=青铜刨子
+item.Copper Planer.name=铜刨子
+item.Wrought Iron Planer.name=锻铁刨子
+item.Red Steel Planer.name红钢刨子
+item.Steel Planer.name=钢刨子

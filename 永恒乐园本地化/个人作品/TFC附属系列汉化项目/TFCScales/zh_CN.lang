@@ -1,0 +1,6 @@
+gui.plans.smallweights=小砝码
+gui.plans.bigweight=大砝码
+item.ScaleWeight.name=砝码
+tile.Scale.name=天平
+gui.Scale.Cut=削减
+itemGroup.scalesTab=TFC天平

@@ -1,0 +1,329 @@
+#zh_CN
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the ?symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+key.DebugMode=调试模式
+
+tile.empty.name=没有方块
+item.empty.name=没有物品
+
+#===========
+#= Devices =
+#===========
+
+item.Alloy Calculator.name=合金计算器
+item.Anodising Vessel.name=阳极器皿
+item.Ceramic Battery.name=电池(陶瓷)
+item.Drying Mat.name=干燥垫
+item.Evaporator Pan.name=蒸发皿
+item.Ore Cooker.name=矿石冶炼锅
+
+tile.Alloy Calculator.name=合金计算器
+tile.Anodising Vessel.name=阳极器皿
+tile.Drying Mat.name=干燥垫
+tile.Evaporator Pan.name=蒸发皿
+tile.Ore Cooker.name=矿石冶炼锅
+tile.TFC Log Pile.name=木堆(Udary)
+
+#==========
+#= Fluids =
+#==========
+
+#== Fluid Names ==
+fluid.nitricacid=硝酸
+fluid.sulfuricacid=硫酸
+
+#== Bottled Fluids ==
+item.Bottled Brine.name=瓶装盐水
+item.Bottled Limewater.name=瓶装石灰水
+item.Bottled Milk.name=瓶装牛奶
+item.Bottled Nitric Acid.name=瓶装硝酸
+item.Bottled Olive Oil.name=瓶装橄榄油
+item.Bottled Salt Water.name=瓶装盐水
+item.Bottled Sulfuric Acid.name=瓶装硫酸
+item.Bottled Tannin.name=瓶装鞣酸
+item.Bottled Vinegar.name=瓶装醋
+item.Bottled Water.name=瓶装水
+
+#== Ceramic Jug Fluids
+item.Jug Milk.name=奶壶
+
+#== Steel Bucket Fluids ==
+item.Blue Steel Bucket Nitric Acid.name=蓝钢桶(硝酸)
+item.Blue Steel Bucket Sulfuric Acid.name=蓝钢桶(硫酸)
+item.Red Steel Bucket Nitric Acid.name=红钢桶(硝酸)
+item.Red Steel Bucket Sulfuric Acid.name=红钢桶(硫酸)
+
+#== Wooden Bucket Fluids ==
+item.Beer.name=啤酒
+item.Brine.name=卤水
+item.Cider.name=苹果汁
+item.Corn Whiskey.name=玉米威士忌
+item.Limewater.name=石灰水
+item.Olive Oil.name=橄榄油
+item.Rum.name=朗姆酒
+item.Rye Whiskey.name=黑麦威士忌
+item.Sake.name=米酒
+item.Tannin.name=鞣酸
+item.Vodka.name=伏特加
+item.Whiskey.name威士忌
+
+#=============
+#= Materials =
+#=============
+
+item.Copper Wire.name=铜线
+item.Wrought Iron Buckle.name=铁扣
+
+#========
+#= Ores =
+#========
+
+item.Cooked Limonite Small.name=小的熟褐铁
+item.Cooked Limonite Poor.name=贫瘠的熟褐铁
+item.Cooked Limonite.name=熟褐铁
+item.Cooked Limonite Rich.name=富集的熟褐铁
+item.Nickel Flake.name=镍粒（1）
+item.Nickel Flake Clump.name=镍粒（10）
+item.Silver Flake.name=银粒（1）
+item.Silver Flake Clump.name=银粒（10）
+
+#===========
+#= Pottery =
+#===========
+
+item.Rod Mold.Clay Mold Rod.name=粘土棒模具
+item.Rod Mold.Ceramic Mold Rod.name=棒模具
+item.Rod Mold.Ceramic Mold Rod Copper.name=棒模具(铜)
+
+#==========
+#= Powder =
+#==========
+
+item.Cooked Limonite Powder.name=熟褐铁粉
+
+#===========
+#= Recipes =
+#===========
+
+recipe.AV Nitric Acid.name=硝酸
+recipe.AV Sulfuric Acid.name=硫酸
+recipe.EP Salt.name=盐
+recipe.EP Sulfer.name=硫磺
+recipe.EP Saltpeter.name=Saltpeter
+recipe.OC Cooked Limonite (10).name=熟褐铁(10)
+recipe.OC Cooked Limonite (15).name=熟褐铁(15)
+recipe.OC Cooked Limonite (25).name=熟褐铁(25)
+recipe.OC Cooked Limonite (35).name=熟褐铁(35)
+
+#=========
+#= Tools =
+#=========
+
+item.Carbon Rod.name=碳棒
+item.Copper Rod.name=铜棒
+item.Copper Rod Nickel Coated.name=镀镍铜棒
+item.Copper Rod Silver Coated.name=镀银铜棒
+item.Tucker Bag.name=塔克包
+item.Tucker Bag Full.name=塔克包(满)
+item.Tucker Bag v2.name=加固的塔克包
+item.Tucker Bag v2 Full.name=加固的塔克包(满)
+
+#=======
+#= GUI =
+#=======
+
+#== Common ==
+gui.capacity=容量
+gui.cooking=cooking
+gui.count=数量
+gui.damage=Damage
+gui.drying=干燥
+gui.idle=闲置的
+gui.notavailable=n/a
+gui.processing=加工
+gui.progress=进程
+gui.remaining=剩余
+gui.result=结果
+gui.temperature=温度
+
+gui.alloycalculator.calculator=计算器
+gui.alloycalculator.list=列表
+gui.alloycalculator.result=可能的合金
+
+#== Plans ==
+gui.plans._buckle=扣
+gui.plans._evaporatorpan=蒸发皿
+gui.plans._rod=棒
+gui.plans._wire=线
+
+#== Devices ==
+gui.Battery.charge=电荷
+
+#== Tooltips ==
+gui.ShowMoreInfo=?More... (Hold Ctrl?)
+gui.taste.factor=Taste Factor
+
+#== Units of Measure ==
+gui.battery.unit1=mU
+gui.battery.unit1000=U
+gui.barrel.unit1=mB
+gui.barrel.unit1000=B
+gui.decay.unit=%
+gui.food.unit=oz
+gui.nickel.units=Nickel Units
+gui.progress.unit=%
+gui.silver.units=Silver Units
+gui.units=Units
+
+
+#===========
+#= Strings =
+#===========
+string.tuckerbag.bagtodamaged=The tucker bag is to damaged to capture the animal.
+string.tuckerbag.bagversiontolow=The tucker bag version to low to capture the animal.
+string.tuckerbag.entityleashed=The animals is leashed.
+string.tuckerbag.entitynotallowed=The animal cannot be captured with a tucker bag.
+string.tuckerbag.entitynotregistered=The animal cannot be captured with a tucker bag.
+string.tuckerbag.entityridden=The animal is being ridden.
+string.tuckerbag.version.1=Standard
+string.tuckerbag.version.2=Reinforced
+string.tuckerbag.version.none=n/a
+
+#========
+#= Misc =
+#========
+
+#== Creative Tabs ==
+itemGroup.UdaryArmor=(Udary) Armor
+itemGroup.UdaryMaterials=(Udary) Materials
+itemGroup.UdaryMisc=(Udary) Misc
+itemGroup.UdaryPottery=(Udary) Pottery
+itemGroup.UdaryTools=(Udary) Tools
+itemGroup.UdaryWeapons=(Udary) Weapons
+itemGroup.UdaryDevices=(Udary) Devices
+itemGroup.UdaryFoods=(Udary) Foodstuffs
+itemGroup.UdaryBuilding=(Udary) Building Blocks
+itemGroup.UdaryDecoration=(Udary) Decoration Blocks
+itemGroup.UdaryFluids=(Udary) Fluids
+
+
+#=========
+#= WAILA =
+#=========
+
+#== Tooltips ==
+tooltip.adult=Adult
+tooltip.birthdate=Birthdate
+tooltip.daystoadult=Days Until Adult
+tooltip.empty=(empty)
+tooltip.familiarisedlast=Last Familiarized
+tooltip.familiarisedtoday=Familiarized Today
+tooltip.familiarity=Familiarity
+tooltip.gender=Gender
+tooltip.harvest=Harvest
+tooltip.hasfruit=Has Fruit
+tooltip.hours=Hours
+tooltip.hp=HP
+tooltip.inlove=In Love
+tooltip.milkedtoday=Milked Today
+tooltip.none=None
+tooltip.pregnancyremaining=Pregnancy Remaining
+tooltip.pregnant=Pregnant
+tooltip.remaining=Remaining
+tooltip.stacklevels=Valid Stack Levels
+tooltip.stackvalid=Smoke Stack Valid
+tooltip.tamed=Tamed
+tooltip.tuckerbag=Tucker Bag
+tooltip.tuckerbagversion=Version
+tooltip.tuckerbagdamageamount=Damage
+tooltip.ticks=Ticks
+tooltip.unknown=Unknown
+tooltip.wasroped=Was Roped
+
+#== TFC Items ==
+tooltip.FruitTree.Green Apple=Green Apple Tree
+tooltip.FruitTree.Red Apple=Red Apple Tree
+tooltip.FruitTree.Banana=Banana Tree
+tooltip.FruitTree.Cherry=Cherry Tree
+tooltip.FruitTree.Lemon=Lemon Tree
+tooltip.FruitTree.Olive=Olive Tree
+tooltip.FruitTree.Orange=Orange Tree
+tooltip.FruitTree.Peach=Peach Tree
+tooltip.FruitTree.Plum=Plum Tree
+
+tooltip.FruitLeaves.Green Apple=Green Apple Tree Leaves
+tooltip.FruitLeaves.Red Apple=Red Apple Tree Leaves
+tooltip.FruitLeaves.Banana=Banana Tree Leaves
+tooltip.FruitLeaves.Cherry=Cherry Tree Leaves
+tooltip.FruitLeaves.Lemon=Lemon Tree Leaves
+tooltip.FruitLeaves.Olive=Olive Tree Leaves
+tooltip.FruitLeaves.Orange=Orange Tree Leaves
+tooltip.FruitLeaves.Peach=Peach Tree Leaves
+tooltip.FruitLeaves.Plum=Plum Tree Leaves
+
+#== Options - Blocks ==
+option.udary.terrafirmacraft.anvil.storage=Anvil - Storage?
+option.udary.terrafirmacraft.anvil.tier=Anvil - Tier?
+option.udary.terrafirmacraft.barrel.progress=Barrel - Progress?
+option.udary.terrafirmacraft.berrybush.harvest=Berry Bush - Harvest?
+option.udary.terrafirmacraft.berrybush.hasfruit=Berry Bush - Has Fruit?
+option.udary.terrafirmacraft.blastfurnace.storage=Blast Furnace - Storage?
+option.udary.terrafirmacraft.blastfurnace.validlevels=Blast Furnace - Levels?
+option.udary.terrafirmacraft.clay.stone=Clay Block - Stone?
+option.udary.terrafirmacraft.crucible.showmetal=Crucible - Metal?
+option.udary.terrafirmacraft.dirt.stone=Dirt Block - Stone?
+option.udary.terrafirmacraft.farmland.nutrients=Farmland - Nutrients?
+option.udary.terrafirmacraft.farmland.stone=Farmland - Stone?
+option.udary.terrafirmacraft.firepit.fuel=Firepit - Fuel?
+option.udary.terrafirmacraft.firepit.storage=Firepit - Storage?
+option.udary.terrafirmacraft.foodprep.storage=Food Prep - Storage?
+option.udary.terrafirmacraft.forge.fuel=Forge - Fuel?
+option.udary.terrafirmacraft.forge.stackstate=Forge - Valid Stack?
+option.udary.terrafirmacraft.forge.storage=Forge - Storage?
+option.udary.terrafirmacraft.fruitleaves.harvest=Fruit Leaves - Harvest?
+option.udary.terrafirmacraft.fruitleaves.hasfruit=Fruit Leaves - Has Fruit?
+option.udary.terrafirmacraft.fruitwood.harvest=Fruit Tree - Harvest?
+option.udary.terrafirmacraft.grass.stone=Grass - Stone?
+option.udary.terrafirmacraft.gravel.stone=Gravel - Stone?
+option.udary.terrafirmacraft.grill.storage=Grill - Storage?
+option.udary.terrafirmacraft.hopper.storage=Hopper - Storage?
+option.udary.terrafirmacraft.ingotpile.count=Ingot Pile - Count?
+option.udary.terrafirmacraft.logpile.count=Log Pile - Count?
+option.udary.terrafirmacraft.logpile.storage=Log Pile - Storage?
+option.udary.terrafirmacraft.pottery.pitkiln=Pottery - Fuel?
+option.udary.terrafirmacraft.pottery.progress=Pottery - Progress?
+option.udary.terrafirmacraft.pottery.storage=Pottery - Storage?
+option.udary.terrafirmacraft.quern.storage=Quern - Storage?
+option.udary.terrafirmacraft.sand.stone=Sand - Stone?
+option.udary.terrafirmacraft.sapling.remaining=Sapling - Remaining?
+option.udary.terrafirmacraft.smokerack.storage=Smoke Rack - Storage?
+option.udary.terrafirmacraft.toolrack.storage=Tool Rack - Storage?
+option.udary.terrafirmacraft.torch.remaining=Torch - Remaining?
+option.udary.terrafirmacraft.worlditem.storage=Debris Details?
+
+option.udary.terrafirmacraft.alloycalculator.storage=Alloy Calc - Storage?
+option.udary.terrafirmacraft.anodisingvessel.process=Anodiser - Process?
+option.udary.terrafirmacraft.anodisingvessel.storage=Anodiser - Storage?
+option.udary.terrafirmacraft.dryingmat.process=Drying Mat - Process?
+option.udary.terrafirmacraft.dryingmat.storage=Drying Mat - Storage?
+option.udary.terrafirmacraft.evaporatorpan.process=Evap. Pan - Process?
+option.udary.terrafirmacraft.evaporatorpan.storage=Evap. Pan - Storage?
+option.udary.terrafirmacraft.orecooker.process=Ore Cooker - Process?
+option.udary.terrafirmacraft.orecooker.storage=Ore Cooker - Storage?
+
+#== Options - Entities ==
+option.udary.terrafirmacraft.animal.adult=Animal - Adult?
+option.udary.terrafirmacraft.animal.birthdate=Animal - Birthdate?
+option.udary.terrafirmacraft.animal.familiarity=Animal - Familiarity?
+option.udary.terrafirmacraft.animal.gender=Animal - Gender?
+option.udary.terrafirmacraft.animal.hp=Animals - HP?
+option.udary.terrafirmacraft.animal.inlove=Animal - In Love?
+option.udary.terrafirmacraft.animal.milked=Animal - Milked?
+option.udary.terrafirmacraft.animal.misc=Animal - Misc?
+option.udary.terrafirmacraft.animal.pregnant=Animal - Pregnant?
+option.udary.terrafirmacraft.animal.tuckerbaginfo=Animal - Tucker Bag?
+option.udary.terrafirmacraft.stand.armor=Armor Stand - Armor?
