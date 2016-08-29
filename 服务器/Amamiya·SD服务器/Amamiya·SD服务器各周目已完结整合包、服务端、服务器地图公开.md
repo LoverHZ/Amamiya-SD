@@ -5,16 +5,16 @@
 
 #Amamiya·SD4(四周目)
 简介：这周目是群峦的专属舞台，同时还有群峦的很多实用的扩展(如冰窖)。
-客户端:http://pan.baidu.com/s/1i4KQIS9
-服务端+地图：http://pan.baidu.com/s/1gfCyQAZ
+客户端:http://pan.baidu.com/s/1i4KQIS9  
+服务端+地图：http://pan.baidu.com/s/1gfCyQAZ  
 
 
 
 #Amamiya·SD3(三周目)
 简介:这周目围绕着格雷科技6和mekanism两大核心展开，mod数量不多，但由于格雷科技6的存在，前中期难度都比较大，后期可以使用mekanism。
 
-客户端:http://pan.baidu.com/s/1b0f1SU
-服务端+地图:http://pan.baidu.com/s/1nu64BIL
+客户端:http://pan.baidu.com/s/1b0f1SU  
+服务端+地图:http://pan.baidu.com/s/1nu64BIL  
 
 
 
@@ -31,8 +31,8 @@
 闲暇之余还可以玩玩projectred、潘马斯或者是computercraft
 同时还有AcademyCraft，成为一个超能力者吧！
 
-客户端:http://pan.baidu.com/s/1hsPh9e0
-服务端&二周目地图:http://pan.baidu.com/s/1bpnyeIF
+客户端:http://pan.baidu.com/s/1hsPh9e0  
+服务端&二周目地图:http://pan.baidu.com/s/1bpnyeIF  
 
 
 
@@ -40,7 +40,7 @@
 简介:这周目是Amamiya服务器的第一周目，难度相对简单，mod也比较丰富，主要科技线只有IC2exp-Techreborn(科技重生)科技重生加入了一些格雷科技4时
 代的设备和物品以及装备。(有些工具的参数我做了调整，比如高级电钻和万能工具，但你在nei里看到的还是原来的)
 
-纪念版客户端：http://pan.baidu.com/s/1dEh4gm9
-纪念版服务端：http://pan.baidu.com/s/1hrgIgSG
-1周目地图：http://pan.baidu.com/s/1dEopRH3
+纪念版客户端：http://pan.baidu.com/s/1dEh4gm9  
+纪念版服务端：http://pan.baidu.com/s/1hrgIgSG  
+1周目地图：http://pan.baidu.com/s/1dEopRH3  
 
