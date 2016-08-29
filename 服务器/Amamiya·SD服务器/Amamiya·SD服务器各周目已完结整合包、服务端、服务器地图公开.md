@@ -4,7 +4,9 @@
 
 
 #Amamiya·SD4(四周目)
-进行中……
+简介：这周目是群峦的专属舞台，同时还有群峦的很多实用的扩展(如冰窖)。
+客户端:http://pan.baidu.com/s/1i4KQIS9
+服务端+地图：http://pan.baidu.com/s/1gfCyQAZ
 
 
 
