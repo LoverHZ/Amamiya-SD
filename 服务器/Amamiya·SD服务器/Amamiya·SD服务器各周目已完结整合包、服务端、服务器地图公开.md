@@ -2,6 +2,11 @@
 以在群公告的主公告看见并且下载。 
 
 
+
+#5.5周目  
+简介：本周目是用了难度颇高的GTNH整合包，可以在TechnicLauncher上下到此整合。  
+  
+  
 #Amamiya·SD5(五周目)  
 简介：本周目主线以科技重生-MEK为主。mod多元化程度较高，中期可自由发展。同时加入了ActuallyAdditions这样的新奇mod。  
 客户端:http://pan.baidu.com/s/1kVe24q7  
