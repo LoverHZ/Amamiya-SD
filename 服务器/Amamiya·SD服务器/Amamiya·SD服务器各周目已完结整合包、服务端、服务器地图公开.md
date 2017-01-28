@@ -3,9 +3,9 @@
 
 
 #Amamiya·SD7(七周目)  
-简介:本周目为GT4(1.6.4)怀旧生存。因为六周目后期出现部分mod不稳定等情况，过早结束，七周目就诞生了。本周目多为较为经典的mod。比如projectRed的重制版、MEK、第一代AE等。这次不仅科技mod比较多，魔法类mod，TC及其扩展第一次完备的出现在Amamiya的整合包中、同时还加入了巫术mod。林业的蜜蜂拓展也比较全面。
-客户端:七周目运行中
-服务端+地图:七周目运行中
+简介:本周目为GT4(1.6.4)怀旧生存。因为六周目后期出现部分mod不稳定等情况，过早结束，七周目就诞生了。本周目多为较为经典的mod。比如projectRed的重制版、MEK、第一代AE等。这次不仅科技mod比较多，魔法类mod，TC及其扩展第一次完备的出现在Amamiya的整合包中、同时还加入了巫术mod。林业的蜜蜂拓展也比较全面。  
+客户端:http://pan.baidu.com/s/1c1LkkP6
+服务端+地图:http://pan.baidu.com/s/1pL8mKTt
 
 
 
@@ -61,7 +61,7 @@
 同时还有AcademyCraft，成为一个超能力者吧！
 
 客户端:http://pan.baidu.com/s/1hsPh9e0  
-服务端&二周目地图:http://pan.baidu.com/s/1bpnyeIF  
+服务端&二周目地图:http://pan.baidu.com/s/1eS5hwuY
 
 
 
