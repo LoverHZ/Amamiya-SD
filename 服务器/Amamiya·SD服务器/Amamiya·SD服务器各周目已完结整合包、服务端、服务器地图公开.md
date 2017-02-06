@@ -2,18 +2,30 @@
 以在群公告的主公告看见并且下载。 
 
 
+#Amamiya·SD7.8(7.8周目)  
+简介:本周目(Amamiya·SD2 Reload)也就是基于二周目整合重制而来，更新了几乎全部mod，新加入了一些mod，比如TC的几大拓展、巫术、血魔法、星系、核电工艺、  binnie、Deep Resonance、重力枪还有格雷科技矿脉定位器等辅助mod的加入。极大丰富了游戏内容。并移除了TE。  
+客户端:  
+服务端+地图:  
+  
+  
+  
+#7.7周目   
+简介:使用了FTB的Sky Factory3空岛整合包(基于1.10.2)  
+
+  
+  
 #Amamiya·SD7(七周目)  
 简介:本周目为GT4(1.6.4)怀旧生存。因为六周目后期出现部分mod不稳定等情况，过早结束，七周目就诞生了。本周目多为较为经典的mod。比如projectRed的重制版、MEK、第一代AE等。这次不仅科技mod比较多，魔法类mod，TC及其扩展第一次完备的出现在Amamiya的整合包中、同时还加入了巫术mod。林业的蜜蜂拓展也比较全面。  
-客户端:http://pan.baidu.com/s/1c1LkkP6
-服务端+地图:http://pan.baidu.com/s/1pL8mKTt
-
+客户端:http://pan.baidu.com/s/1c1LkkP6  
+服务端+地图:http://pan.baidu.com/s/1pL8mKTt  
+  
 
 
 #Amamiya·SD6(六周目)  
 简介:本周目为1.11.2休闲少量mod生存。(35mods)使用的均为最新的mod版本，可体验到最新的科技，比如chisel & bit，可用于雕刻出一些精美的作品来。有PSI这样的编程魔法mod、也有ActuallyAdditions的最新版本，科技重生也有了很大变化。
 
-客户端:http://pan.baidu.com/s/1c1R1Sy
-服务端+地图:http://pan.baidu.com/s/1eSgKB1C
+客户端:http://pan.baidu.com/s/1c1R1Sy  
+服务端+地图:http://pan.baidu.com/s/1eSgKB1C  
 
 
 ------------------------------------------------------------------------------------------------
@@ -27,9 +39,9 @@
   
   
 #Amamiya·SD5(五周目)  
-简介：本周目主线以科技重生-MEK为主。mod多元化程度较高，中期可自由发展。同时加入了ActuallyAdditions这样的新奇mod。  
+简介：本周目(Amamiya·X2)主线以科技重生-MEK为主。mod多元化程度较高，中期可自由发展。同时加入了ActuallyAdditions这样的新奇mod。 
 客户端:http://pan.baidu.com/s/1kVe24q7  
-服务端+地图:http://pan.baidu.com/s/1qY8e5uG
+服务端+地图:http://pan.baidu.com/s/1qY8e5uG  
 
 
 #Amamiya·SD4(四周目)  
@@ -58,10 +70,10 @@
 比如TE的机器部分合成被移除，加工所需能量提升，并且一些跳科技的地方被封堵。Eio的机器需要铁块和钢之类的进行合成。而沉浸工程的能源转换功能则  
 被关闭。ic2的线损和爆炸被恢复了出来。
 闲暇之余还可以玩玩projectred、潘马斯或者是computercraft
-同时还有AcademyCraft，成为一个超能力者吧！
+同时还有AcademyCraft，成为一个超能力者吧！  
 
 客户端:http://pan.baidu.com/s/1hsPh9e0  
-服务端&二周目地图:http://pan.baidu.com/s/1eS5hwuY
+服务端&二周目地图:http://pan.baidu.com/s/1eS5hwuY  
 
 
 
