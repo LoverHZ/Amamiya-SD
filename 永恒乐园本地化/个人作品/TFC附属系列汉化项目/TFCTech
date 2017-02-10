@@ -1,0 +1,484 @@
+#zh_CN
+#This is the Main language configuration file
+#
+#=========
+#= Items =
+#=========
+
+#// Ingots //
+item.Aluminum Ingot.name=铝锭
+item.Aluminum Double Ingot.name=双层铝锭
+item.Electrum Ingot.name=琥珀金锭
+item.Electrum Double Ingot.name=双层琥珀金锭
+item.Constantan Ingot.name=康铜锭
+item.Constantan Double Ingot.name=双层康铜锭
+item.Invar Ingot.name=殷钢锭
+item.Invar Double Ingot.name=双层殷钢锭
+
+#// Sheets //
+item.Aluminum Sheet.name=铝片
+item.Aluminum Double Sheet.name=双层铝片
+item.Electrum Sheet.name=琥珀金片
+item.Electrum Double Sheet.name=双层琥珀金片
+item.Constantan Sheet.name=康铜片
+item.Constantan Double Sheet.name=双层康铜片
+item.Invar Sheet.name=殷钢片
+item.Invar Double Sheet.name=双层殷钢片
+
+#// Unshaped //
+item.Aluminum Unshaped.name=未成形的：铝
+item.Electrum Unshaped.name=未成形的：琥珀金
+item.Constantan Unshaped.name=未成形的：康铜
+item.Invar Unshaped.name=未成形的：殷钢
+
+#// Dust //
+item.Aluminum Dust.name=铝粉
+item.Bauxite Dust.name=铝土粉
+item.Electrum Dust.name=琥珀金粉
+item.Constantan Dust.name=康铜粉
+item.Invar Dust.name=殷钢粉
+item.Bismuth Bronze Dust.name=铋青铜粉
+item.Bismuth Dust.name=铋粉
+item.Black Bronze Dust.name=黑青铜粉
+item.Black Steel Dust.name=黑钢粉
+item.Blue Steel Dust.name=蓝钢粉
+item.Brass Dust.name=黄铜粉
+item.Bronze Dust.name=青铜粉
+item.Copper Dust.name=铜粉
+item.Gold Dust.name=金粉
+item.Lead Dust.name=铅粉
+item.Nickel Dust.name=镍粉
+item.Pig Iron Dust.name=生铁粉
+item.Platinum Dust.name=铂粉
+item.Red Steel Dust.name=红钢粉
+item.Rose Gold Dust.name=玫瑰金粉
+item.Silver Dust.name=银粉
+item.Steel Dust.name=钢粉
+item.Sterling Silver Dust.name=纯银粉
+item.Tin Dust.name=锡粉
+item.Wrought Iron Dust.name=锻铁粉
+item.Zinc Dust.name=锌粉
+
+#// Nuggets //
+item.Aluminum Nugget.name=铝粒
+item.Electrum Nugget.name=琥珀金粒
+item.Constantan Nugget.name=康铜粒
+item.Invar Nugget.name=殷钢粒
+item.Bismuth Bronze Nugget.name=铋青铜粒
+item.Bismuth Nugget.name=铋粒
+item.Black Bronze Nugget.name=黑青铜粒
+item.Black Steel Nugget.name=黑钢粒
+item.Blue Steel Nugget.name=蓝钢粒
+item.Brass Nugget.name=黄铜粒
+item.Bronze Nugget.name=青铜粒
+item.Copper Nugget.name=铜粒
+item.Gold Nugget.name=金粒
+item.Lead Nugget.name=铅粒
+item.Nickel Nugget.name=镍粒
+item.Pig Iron Nugget.name=生铁粒
+item.Platinum Nugget.name=铂粒
+item.Red Steel Nugget.name=红钢粒
+item.Rose Gold Nugget.name=玫瑰金粒
+item.Silver Nugget.name=银粒
+item.Steel Nugget.name=钢粒
+item.Sterling Silver Nugget.name=纯银粒
+item.Tin Nugget.name=锡粒
+item.Wrought Iron Nugget.name=锻铁粒
+item.Zinc Nugget.name=锌粒
+
+#// Plates //
+item.Aluminum Plate.name=铝板
+item.Electrum Plate.name=琥珀金板
+item.Constantan Plate.name=康铜板
+item.Invar Plate.name=殷钢板
+item.Bismuth Bronze Plate.name=铋青铜板
+item.Bismuth Plate.name=铋板
+item.Black Bronze Plate.name=黑青铜板
+item.Black Steel Plate.name=黑钢板
+item.Blue Steel Plate.name=蓝钢板
+item.Brass Plate.name=黄铜板
+item.Bronze Plate.name=青铜板
+item.Copper Plate.name=铜板
+item.Gold Plate.name=金板
+item.Lead Plate.name=铅板
+item.Nickel Plate.name=镍板
+item.Pig Iron Plate.name=生铁板
+item.Platinum Plate.name=铂板
+item.Red Steel Plate.name=红钢板
+item.Rose Gold Plate.name=玫瑰金板
+item.Silver Plate.name=银板
+item.Steel Plate.name=钢板
+item.Sterling Silver Plate.name=纯银板
+item.Tin Plate.name=锡板
+item.Wrought Iron Plate.name=锻铁板
+item.Zinc Plate.name=锌板
+
+#// Dense plates //
+item.Dense Aluminum Plate.name=致密铝板
+item.Dense Electrum Plate.name=致密琥珀金板
+item.Dense Constantan Plate.name=致密康铜板
+item.Dense Invar Plate.name=致密殷钢板
+item.Dense Bismuth Bronze Plate.name=致密铋青铜板
+item.Dense Bismuth Plate.name=致密铋板
+item.Dense Black Bronze Plate.name=致密黑青铜板
+item.Dense Black Steel Plate.name=致密黑钢板
+item.Dense Blue Steel Plate.name=致密蓝钢板
+item.Dense Brass Plate.name=致密黄铜板
+item.Dense Bronze Plate.name=致密青铜板
+item.Dense Copper Plate.name=致密铜板
+item.Dense Gold Plate.name=致密金板
+item.Dense Lead Plate.name=致密铅板
+item.Dense Nickel Plate.name=致密镍板
+item.Dense Pig Iron Plate.name=致密生铁板
+item.Dense Platinum Plate.name=致密铂板
+item.Dense Red Steel Plate.name=致密红钢板
+item.Dense Rose Gold Plate.name=致密玫瑰金板
+item.Dense Silver Plate.name=致密银板
+item.Dense Steel Plate.name=致密钢板
+item.Dense Sterling Silver Plate.name=致密纯银板
+item.Dense Tin Plate.name=致密锡板
+item.Dense Wrought Iron Plate.name=致密锻铁板
+item.Dense Zinc Plate.name=致密锌板
+
+#// Gears //
+item.Gear Piece Mold.Clay Mold Gear Piece.name=粘土齿轮片模具
+item.Gear Piece Mold.Ceramic Mold Gear Piece.name=齿轮片模具
+item.Gear Piece Mold.Ceramic Mold Gear Piece Copper.name=齿轮片模具（铜）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Bronze.name=齿轮片模具（青铜）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Black Bronze.name=齿轮片模具（黑青铜）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Bismuth Bronze.name=齿轮片模具（铋青铜）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Gold.name=齿轮片模具（金）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Tin.name=齿轮片模具（锡）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Brass.name=齿轮片模具（黄铜）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Wrought Iron.name=齿轮片模具（锻铁）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Steel.name=齿轮片模具（钢）
+item.Gear Piece Mold.Ceramic Mold Gear Piece Blue Steel.name=齿轮片模具（蓝钢）
+
+item.Sleeve Mold.Clay Mold Sleeve.name=粘土套筒模具
+item.Sleeve Mold.Ceramic Mold Sleeve.name=套筒模具
+item.Sleeve Mold.Ceramic Mold Sleeve Brass.name=套筒模具（黄铜）
+item.Sleeve Mold.Ceramic Mold Sleeve Steel.name=套筒模具（钢）
+item.Sleeve Mold.Ceramic Mold Sleeve Tin.name=套筒模具（锡） 
+
+item.Copper Gear Piece.name=铜齿轮片
+item.Bronze Gear Piece.name=青铜齿轮片
+item.Black Bronze Gear Piece.name=黑青铜齿轮片
+item.Bismuth Bronze Gear Piece.name=铋青铜齿轮片
+item.Gold Gear Piece.name=金齿轮片
+item.Tin Gear Piece.name=锡齿轮片
+item.Brass Gear Piece.name=黄铜齿轮片
+item.Wrought Iron Gear Piece.name=锻铁齿轮片
+item.Steel Gear Piece.name=钢齿轮片
+item.Blue Steel Gear Piece.name=蓝钢齿轮片
+
+item.Copper Rackwheel.name=铜棘轮
+item.Bronze Rackwheel.name=青铜棘轮
+item.Black Bronze Rackwheel.name=黑青铜棘轮
+item.Bismuth Bronze Rackwheel.name=铋青铜棘轮
+item.Gold Rackwheel.name=金棘轮
+item.Tin Rackwheel.name=锡棘轮
+item.Brass Rackwheel.name=黄铜棘轮
+item.Wrought Iron Rackwheel.name=锻铁棘轮
+item.Steel Rackwheel.name=钢棘轮
+item.Blue Steel Rackwheel.name=蓝钢棘轮
+
+item.Copper Gear.name=铜齿轮
+item.Bronze Gear.name=青铜齿轮
+item.Black Bronze Gear.name=黑青铜齿轮
+item.Bismuth Bronze Gear.name=铋青铜齿轮
+item.Gold Gear.name=金齿轮
+item.Tin Gear.name=锡齿轮
+item.Brass Gear.name=黄铜齿轮
+item.Wrought Iron Gear.name=锻铁齿轮
+item.Steel Gear.name=钢齿轮
+item.Blue Steel Gear.name=蓝钢齿轮
+
+item.Brass Sleeve.name=黄铜套筒
+item.Steel Sleeve.name=钢套筒
+item.Tin Sleeve.name=锡套筒
+
+#// Flora //
+item.Log.Hevea.name=橡胶树干
+
+#// Tools //
+item.Latex Bowl.Clay Latex Bowl.name=粘土乳胶碗
+item.Latex Bowl.Ceramic Latex Bowl.name=陶瓷乳胶碗
+
+#// Rubber components //
+item.Chalk Powder.name=白垩粉
+item.Vulcanizing Agents.name=硫化剂
+item.Rubber Mix.name=混炼胶
+item.Rubber.name=橡胶
+
+#// Dyes //
+item.Lime Paint.lime.name=石灰漆 (Lime)
+item.Lime Paint.black.name=石灰漆 (Black)
+item.Lime Paint.blue.name=石灰漆 (Blue)
+item.Lime Paint.cyan.name=石灰漆 (Cyan)
+item.Lime Paint.gray.name=石灰漆 (Gray)
+item.Lime Paint.yellow.name=石灰漆 (Yellow)
+item.Lime Paint.orange.name=石灰漆 (Orange)
+item.Lime Paint.green.name=石灰漆 (Green)
+item.Lime Paint.brown.name=石灰漆 (Brown)
+item.Lime Paint.pink.name=石灰漆 (Pink)
+item.Lime Paint.silver.name=石灰漆 (Silver)
+item.Lime Paint.light_blue.name=石灰漆 (Light Blue)
+item.Lime Paint.white.name=石灰漆 (White)
+item.Lime Paint.red.name=石灰漆 (Red)
+item.Lime Paint.purple.name=石灰漆 (Purple)
+item.Lime Paint.magenta.name=石灰漆 (Magenta)
+
+#// Device parts //
+item.Bowl Mount.name=碗座
+item.Groove.name=凹槽
+item.Wrought Iron Stripe.name=锻铁带
+item.Tin Stripe.name=锡带
+item.Aluminum Stripe.name=铝带
+item.Copper Stripe.name=铜带
+item.Gold Stripe.name=禁带
+item.Electrum Stripe.name=琥珀金带
+item.Steel Stripe.name=钢带
+item.Circuit.Circuit Board.name=电路板
+item.Circuit.Frequency Generator Circuit.name=频率发生器电路
+item.Inductor.name=感应器
+
+#// Wire drawing //
+item.Tin Wire.name=锡线
+item.Copper Wire.name=铜线
+item.Gold Wire.name=金线
+item.Aluminum Wire.name=铝线
+item.Electrum Wire.name=琥珀金线
+item.Wrought Iron Wire.name=铁线
+item.Steel Wire.name=钢线
+
+item.Unfinished Tin Wire.name=未完成的锡线
+item.Unfinished Copper Wire.name=未完成的铜线
+item.Unfinished Gold Wire.name=未完成的金线
+item.Unfinished Aluminum Wire.name=未完成的铝线
+item.Unfinished Electrum Wire.name=未完成的琥珀金线
+item.Unfinished Wrought Iron Wire.name=未完成的铁线
+item.Unfinished Steel Wire.name=未完成的钢线
+
+item.Winch.name=绞车
+item.Leather Belt.name=皮带
+item.Tongs.name=钳子
+item.Wire Draw Bench.name=拉线机
+item.Oil Can.name=油罐
+
+item.Wrought Iron Drawplate.name=锻铁拉模板
+item.Steel Drawplate.name=钢拉模板
+item.Black Steel Drawplate.name=黑钢拉模板
+
+#// Integration //
+item.Drill Head.name=钻头
+item.Quartz.name=石英
+
+item.Steel Bucket Empty.name=钢桶 (空)
+item.Steel Bucket Fuel.name=钢桶 (燃料)
+item.Steel Bucket Oil.name=钢桶 (石油)
+item.Steel Bucket Latex.name=钢桶 (胶乳)
+
+item.PipeStructureLead.name=铅管结构
+
+item.PipeItemsLead.name=铅物品管道
+item.PipeItemsBlueSteel.name=蓝钢物品管道
+item.PipeItemsMarker.name=标记物品管道
+item.PipeItemsFilter.name=过滤物品管道
+item.PipeItemsCopper.name=铜物品管道
+item.PipeItemsRedSteel.name=红钢物品管道
+item.PipeItemsMarkerExtractor.name=标记提取物品管道
+item.PipeItemsElectrum.name=琥珀金物品管道
+item.PipeItemsWroughtIron.name=锻铁物品管道
+item.PipeItemsBlackSteel.name=黑钢物品管道
+item.PipeItemsSilver.name=银物品管道
+item.PipeItemsBronze.name=青铜物品管道
+item.PipeItemsSterlingSilver.name=纯银物品管道
+item.PipeItemsZinc.name=锌物品管道
+item.PipeItemsNullify.name=虚空物品管道
+
+item.PipeFluidsLead.name=铅流体管道
+item.PipeFluidsCopper.name=铜流体管道
+item.PipeFluidsRedSteel.name=红钢流体管道
+item.PipeFluidsSterlingSilver.name=纯银流体管道
+item.PipeFluidsElectrum.name=琥珀金流体管道
+item.PipeFluidsWroughtIron.name=锻铁流体管道
+item.PipeFluidsSilver.name=银流体管道
+item.PipeFluidsBronze.name=青铜流体管道
+item.PipeFluidsNullify.name=虚空流体管道
+item.PipeFluidsZinc.name=锌流体管道
+item.PipeFluidsBlueSteel.name=蓝钢流体管道
+
+item.PipePowerBlueSteel.name=蓝钢能量管道
+item.PipePowerElectrum.name=琥珀金能量管道
+item.PipePowerSterlingSilver.name=纯银能量管道
+item.PipePowerBronze.name=青铜能量管道
+item.PipePowerSilver.name=银能量管道
+item.PipePowerLead.name=铅能量管道
+item.PipePowerCopper.name=铜能量管道
+item.PipePowerRedSteel.name=红钢能量管道
+item.PipePowerWroughtIron.name=锻铁能量管道
+
+item.Zinc Pipe Frame.name=锌管架
+item.Lead Pipe Frame.name=铅管架
+item.Blue Steel Pipe Frame.name=蓝钢管架
+item.Red Steel Pipe Frame.name=红钢管架
+item.Electrum Pipe Frame.name=琥珀金管架
+item.Wrought Iron Pipe Frame.name=锻铁管架
+item.Steel Pipe Frame.name=钢管架
+item.Black Steel Pipe Frame.name=黑钢管架
+item.Sterling Silver Pipe Frame.name=纯银管架
+item.Silver Pipe Frame.name=银管架
+item.Bronze Pipe Frame.name=青铜管架
+item.Copper Pipe Frame.name=铜管架
+
+item.Glue.name=胶
+item.Dixie.name=Dixie (空)
+item.Dixie Bones.name=Dixie (水+骨头)
+item.Dixie Glue.name=Dixie (胶)
+
+item.Insulator Part.Clay Insulator Part.name=黏土绝缘体
+item.Insulator Part.Ceramic Insulator Part.name=陶瓷绝缘体
+item.Ceramic Plate.Clay Plate.name=黏土板
+item.Ceramic Plate.Ceramic Plate.name=陶瓷板
+item.Capacitor Electrode.name=电容器电极
+item.MLCC Block.name=MLCC块
+item.LV Capacitor Base.name=LV 基础电容器
+item.MV Capacitor Base.name=MV 基础电容器
+item.HV Capacitor Base.name=HV 基础电容器
+
+#=======
+#= Ore =
+#=======
+#== Ore Items ==
+
+item.Ore.Bauxite.name=铝土矿
+item.Ore.Rich Bauxite.name=富集铝土矿
+item.Ore.Poor Bauxite.name=贫瘠铝土矿
+item.Small Ore.Bauxite.name=小铝土矿
+
+#==========
+#= Blocks =
+#==========
+
+#== Ore Blocks ==
+tile.Ore.Bauxite.name=铝土矿
+
+#== Liquid Blocks ==
+tile.Latex.name=胶乳
+
+#== Flora ==
+tile.log.Hevea.name=橡胶树干
+tile.Hevea.Hevea.name=橡胶树干
+tile.Hevea1.Hevea.name=橡胶树干
+tile.Hevea2.Hevea.name=橡胶树干
+tile.Hevea3.Hevea.name=橡胶树干
+tile.Hevea1.name=橡胶树干
+tile.Hevea2.name=橡胶树干
+tile.Hevea3.name=橡胶树干
+tile.HeveaDead.Hevea.name=死亡的橡胶树干
+tile.Hevea.name=橡胶树干
+tile.leaves.Hevea.name=橡胶树叶
+tile.sapling.Hevea.name=橡胶树苗
+
+#== Devices ==
+tile.LatexExtractor.name=割胶
+tile.InductionSmelter.name=感应熔炼炉
+
+#=======
+#= GUI =
+#=======
+gui.metal.Aluminum=铝
+gui.metal.Electrum=琥珀金
+gui.metal.Constantan=康铜
+gui.metal.Invar=殷钢
+
+gui.qty=数量
+gui.latexAmt=胶乳数量
+gui.loosingLatex=胶乳正在产出！
+
+gui.groove.usage0=使用凹槽从橡胶树获得胶乳。
+gui.groove.usage1=§b右击§7橡胶树的树干来安装它。
+gui.groove.usage2=锤子必须在工具栏！
+gui.groove.heveaOnly=仅仅对橡胶树！
+gui.groove.hammer=没有锤子无法安装！
+gui.groove.cantPlace=不能放在这。
+
+gui.latexTapping.treeIsDead=这棵树已经死了。
+
+gui.inductionSmelter.thermostat=恒温器
+gui.inductionSmelter.thermostatSettings=恒温器设置
+
+gui.wire.stage1=Stage 1
+gui.wire.stage2=Stage 2
+gui.wire.stage3=Stage 3
+
+gui.wireDrawBench.progress=完成的
+gui.wireDrawBench.lubricated=润滑的
+
+gui.plans.groove=凹槽
+gui.plans.mount=碗座
+gui.plans.wrench=扳手
+gui.plans.frame=管架
+gui.plans.dixie=Dixie
+gui.plans.wire=金属丝
+gui.plans.drawplate=拉模板
+gui.plans.tongs=钳子
+gui.plans.oilcan=油罐
+
+#===========
+#= Strings =
+#===========
+
+#========
+#= Misc =
+#========
+
+fluid.latex=胶乳
+
+#== Creative Tabs ==
+
+itemGroup.TFCTechTab=Shurgent's TFCTech Addon
+
+#=========
+#= WAILA =
+#=========
+
+#== Tooltips ==
+tip.PipeFluidsZinc=嵌入管道\n(代替BC粘土管道)
+tip.PipeFluidsLead=不会连接到青铜或纯银\n(代替BC圆石管道)
+tip.PipeFluidsBlueSteel=分类流体\n(代替BC钻石管道)
+tip.PipeFluidsRedSteel=提取管道\n(代替BC绿宝石管道)
+tip.PipeFluidsWroughtIron=阀门\n(代替BC铁质管道)
+tip.PipeFluidsSterlingSilver=不会连接到铅或青铜\n(代替BC石英管道)
+tip.PipeFluidsSilver=仅仅连接其他管道\n(代替BC沙石管道)
+tip.PipeFluidsBronze=不会连接到铅或纯银\n(代替BC石头管道)
+tip.PipeFluidsNullify=破坏液体\n(代替BC虚空管道)
+tip.PipeFluidsCopper=提取管道\n(代替BC木质管道)
+tip.PipeFluidsElectrum=代替BC金管道
+tip.PipeItemsZinc=嵌入管道\n(代替BC粘土管道)
+tip.PipeItemsLead=基础管道、高阻力\n不会连接到青铜或纯银\n(代替BC圆石管道)
+tip.PipeItemsFilter=路由计划物品\n(BC Daizuli Pipe substitution)
+tip.PipeItemsBlueSteel=分类物品\n(代替BC钻石管道)
+tip.PipeItemsRedSteel=循环提取管道\n(代替BC绿宝石管道)
+tip.PipeItemsMarkerExtractor=门控提取管道\n(BC Emzuli Pipe substitution)
+tip.PipeItemsElectrum=加速物品\n(代替BC金质管道)
+tip.PipeItemsWroughtIron=路由物品\n(代替BC铁质管道)
+tip.PipeItemsMarker=标记物品\n(代替BC青金石管道)
+tip.PipeItemsBlackSteel=吸收物品\n(代替BC黑曜石管道)
+tip.PipeItemsSterlingSilver=基础管道、低阻力\n不会连接到铅或铜\n(代替BC石英管道)
+tip.PipeItemsSilver=仅仅连接其他管道\n(代替BC沙石管道)
+tip.PipeItemsBronze=基础管道、中阻力\n不会连接到铅或纯银\n(代替BC石头管道)
+tip.PipeItemsNullify=破坏物品\n(代替BC虚空管道)
+tip.PipeItemsCopper=提取管道\n(代替BC木质管道)
+tip.PipePowerRedSteel=能量输入管道\n(代替BC绿宝石管道)
+tip.PipePowerWroughtIron=可选择的限制管道\n(代替BC铁质管道)
+tip.PipePowerSilver=仅仅连接其他管道\n(代替BC沙石管道)
+tip.PipePowerCopper=能量输入管道\n(代替BC木质管道)
+tip.PipeStructureLead=支撑管道\n(代替BC建筑管道)
+tip.PipePowerBlueSteel=代替BC钻石管道
+tip.PipePowerSterlingSilver=代替BC石英管道
+tip.PipePowerElectrum=代替BC金管道
+tip.PipePowerLead=代替BC圆石管道
+tip.PipePowerBronze=代替BC石头管道
+
+#== Options ==
